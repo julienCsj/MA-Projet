@@ -1236,6 +1236,13 @@
 	#banner.montagne {
 		background-image: url("images/overlay.png"), url("../images/montagne.png");
 	}
+	#banner.festival {
+		background-image: url("images/overlay.png"), url("../images/festival.png");
+	}
+
+	#banner.accueil {
+		background-image: url("images/overlay.png"), url("../images/president.jpg");
+	}
 
 		#banner :last-child {
 			margin-bottom: 0;
