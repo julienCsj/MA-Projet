@@ -1243,6 +1243,9 @@
 	#banner.accueil {
 		background-image: url("images/overlay.png"), url("../images/president.jpg");
 	}
+	#banner.infopratique {
+		background-image: url("images/overlay.png"), url("../images/infopratique.png");
+	}
 
 		#banner :last-child {
 			margin-bottom: 0;
