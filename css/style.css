@@ -1230,6 +1230,9 @@
 		padding: 12em 0 20em 0;
 		text-align: center;
 	}
+	#banner.montagne {
+		background-image: url("images/overlay.png"), url("../images/montagne.png");
+	}
 
 		#banner :last-child {
 			margin-bottom: 0;
