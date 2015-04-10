@@ -1231,7 +1231,7 @@
 		text-align: center;
 	}
 	#banner.pays {
-		background-image: url("images/overlay.png"), url("../images/guerre.jpg");
+		background-image: url("images/overlay.png"), url("../images/guerre.png");
 	}
 	#banner.montagne {
 		background-image: url("images/overlay.png"), url("../images/montagne.png");
